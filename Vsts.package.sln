@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vsts.package", "Vsts.package\Vsts.package.csproj", "{53CD4403-0986-4767-9EDC-88043AE5D2C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vsts.package.Tests", "Vsts.package.Tests\Vsts.package.Tests.csproj", "{154F2977-B6ED-4A29-88E4-768F80D72275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CD4403-0986-4767-9EDC-88043AE5D2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CD4403-0986-4767-9EDC-88043AE5D2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CD4403-0986-4767-9EDC-88043AE5D2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CD4403-0986-4767-9EDC-88043AE5D2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{154F2977-B6ED-4A29-88E4-768F80D72275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{154F2977-B6ED-4A29-88E4-768F80D72275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{154F2977-B6ED-4A29-88E4-768F80D72275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{154F2977-B6ED-4A29-88E4-768F80D72275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33D67E81-C62B-4E3E-927A-5B5B151830F8}
+	EndGlobalSection
+EndGlobal
