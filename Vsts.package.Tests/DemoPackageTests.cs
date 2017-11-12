@@ -5,7 +5,7 @@ namespace Vsts.package.Tests
     public class DemoPackageTests
     {
         [Fact]
-        public void Test1()
+        public void DemoPackage_returns_names()
         {
             // Arrange
             var demoPackage = new DemoPackage();
