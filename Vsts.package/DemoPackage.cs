@@ -2,7 +2,7 @@
 {
     using RandomNameGeneratorLibrary;
 
-    public class DemoPackage
+    public class DemoPackage : IDemoPackage
     {
         public string GetNames()
         {
